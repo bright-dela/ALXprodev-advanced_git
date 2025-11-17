@@ -14,5 +14,5 @@ This repository demonstrates the **GitFlow workflow** and best practices for man
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amadibethel/ALXprodev-advanced_git.git
+   git clone https://github.com/bright-dela/ALXprodev-advanced_git.git
    cd ALXprodev-advanced_git
